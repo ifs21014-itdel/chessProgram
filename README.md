@@ -39,7 +39,7 @@ go version # Requires Go 1.20+
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone <https://github.com/ifs21014-itdel/chessProgram.git>
 cd chessProgram
 
 # Install dependencies
